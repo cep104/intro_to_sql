@@ -1,0 +1,1 @@
+INSERT INTO heroes (name, power, created, alias) VALUES (NULL, "Mind Bending", 1964, "Wanda Maximoff");

@@ -1,0 +1,5 @@
+.headers ON 
+.mode column 
+.width auto 
+
+UPDATE heroes SET alias = "Jane Foster" WHERE name= "Thor";

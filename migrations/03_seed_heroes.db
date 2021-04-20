@@ -1,0 +1,17 @@
+-- name, age, title
+INSERT INTO heroes (name, power, created, alias) VALUES ("Storm", "Weather Manipulation", 1975, "Ororo Munroe") ;
+
+INSERT INTO heroes (name, power, created, alias) VALUES 
+("Wolverine", "Super Healing", 1974, "James Howlett");
+
+INSERT INTO heroes (name, power, created, alias) VALUES 
+ ("Wasp", "Size Manipulation", 1963, "Janet van Dyne");
+
+INSERT INTO heroes (name, power, created, alias) VALUES 
+  ("Thor", "Thunder/Storm", 1962,"Thor Odinson");
+
+ INSERT INTO heroes (name, power, created, alias) VALUES 
+  ("Squirrel Girl", "Super strong tail",1991, "Doreen Allene Green");
+  
+ INSERT INTO heroes (name, power, created, alias) VALUES 
+ ("Spiderman", "Spider Powers", 1962, "Peter Parker");

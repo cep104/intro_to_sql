@@ -1,0 +1,3 @@
+-- UPDATE heroes SET name = "Scarlet Witch" WHERE name = NULL;
+
+UPDATE heroes SET name = "Scarlet Witch" WHERE name IS NULL;

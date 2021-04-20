@@ -1,0 +1,8 @@
+.headers ON 
+.mode column 
+.width auto 
+
+SELECT * FROM heroes 
+WHERE created < 1970 
+ORDER BY created 
+LIMIT 2;
