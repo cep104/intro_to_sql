@@ -1,0 +1,6 @@
+("Storm", "Weather Manipulation", 1975, "Ororo Munroe")  
+("Wolverine", "Super Healing", 1974, "James Howlett")
+("Wasp", "Size Manipulation", 1963, "Janet van Dyne") 
+("Thor", "Thunder/Storm", 1962,"Thor Odinson")
+("Squirrel Girl", "Super strong tail",1991, "Doreen Allene Green")
+("Spiderman", "Spider Powers", 1962, "Peter Parker")
